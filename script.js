@@ -35,6 +35,16 @@
 // return sum
 
 
+// Complete the function solveMeFirst to compute the sum of two integers.
+
+// Example
+// Return 10
+
+// function solveMeFirst(a, b) {
+//   return a + b
+// }
+
+
 
 
 
